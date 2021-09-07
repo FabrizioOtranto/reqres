@@ -181,5 +181,23 @@
 		"year": 2011,
 		"color": "#D94F70",
 		"pantone_value": "18-2120"
-	}]
+	}
+],
+
+"plans":[
+	{
+		"id": 1,
+		"name":"Basic"
+	},
+	{
+		"id": 2,
+		"name":"Full hd"
+	},
+	{
+		"id": 3,
+		"name":"Standard"
+	}
+
+]
+
 }
